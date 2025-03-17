@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Jared-Henry
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Software Architect | Principal Engineer | Tech Lead
 
-<!---
-Jared-Henry/Jared-Henry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Innovative software architect with 15+ years of experience building scalable, secure, and high-performance SaaS and enterprise applications. Expertise in distributed systems, cloud-native development (AWS & Azure), DevOps (GitHub Actions, CI/CD, Infrastructure as Code), and security best practices. Passionate about solving complex technical challenges, mentoring teams, and continuous learning.
+
+🔹 Tech Stack: C#, .NET, Node.js, Angular, Docker, Kubernetes, GraphQL  
+🔹 Cloud & DevOps: AWS, Azure, Fargate, App Services, Terraform, GitHub Actions  
+🔹 Security & Compliance: PCI-DSS, OAuth2, 2FA, automated security analysis  
+🔹 Recent Projects: System migrations, .NET upgrades, SaaS architecture, SEO optimization
+
+📫 Reach me at jared.klayton.henry@gmail.com  
+🔗 LinkedIn
