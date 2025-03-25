@@ -8,4 +8,4 @@ Innovative software architect with 15+ years of experience building scalable, se
 🔹 Recent Projects: System migrations, .NET upgrades, SaaS architecture, SEO optimization
 
 📫 Reach me at jared.klayton.henry@gmail.com  
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/jaredkhenry/)
