@@ -1,4 +1,4 @@
-Founder | Chief Chaos Officer
+Founder | Chief Chaos Officer  
 [Department of Vibes and Haiku Warfare](https://dovahw.xyz)
 
 Software Architect | Principal Engineer | Tech Lead
