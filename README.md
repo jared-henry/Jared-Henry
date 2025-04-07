@@ -1,3 +1,6 @@
+Founder | Chief Chaos Officer
+[Department of Vibes and Haiku Warfare](https://dovahw.xyz)
+
 Software Architect | Principal Engineer | Tech Lead
 
 Innovative software architect with 15+ years of experience building scalable, secure, and high-performance SaaS and enterprise applications. Expertise in distributed systems, cloud-native development (AWS & Azure), DevOps (GitHub Actions, CI/CD, Infrastructure as Code), and security best practices. Passionate about solving complex technical challenges, mentoring teams, and continuous learning.
